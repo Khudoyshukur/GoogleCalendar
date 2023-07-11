@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TestProject</string>
+    <string name="delete_events">Delete Events</string>
+    <string name="create_events">Create events</string>
+    <string name="calendar_event_create_failed">Failed to create Google Calendar Events\n</string>
+    <string name="calendar_events_created">3 new Google Calendar Events created. Please note that it takes some time for the events to be appear in the Google Calendar.</string>
+    <string name="calendar_events_deleted">All Google Calendar Events created by the app have been deleted. Please note that it takes some time the changes to be appear in Google Calendar.</string>
+    <string name="google_calendar_not_found">Google Calendar not found on this device\n</string>
+    <string name="app_settings_cannot_be_opened">App settings cannot be opened</string>
+    <string name="permission_message">Please give permission to access your Google Calendar\n</string>
+    <string name="ok">Ok\n</string>
+    <string name="cancel">Cancel\n</string>
+</resources>
